@@ -20,7 +20,7 @@
 /************* STRUCTURES **************/
 
 /**
- * struct info- struct for the program's data
+ * struct info - struct for the program's data
  * @program_name: the name of the executable
  * @input_line: pointer to the input read for _getline
  * @command_name: pointer to the first command typed by the user
